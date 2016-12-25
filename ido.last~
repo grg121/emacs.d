@@ -1,0 +1,215 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/" . "pinguino/")
+ ("/home/pinguino/UGR/SEGUNDO/1/ED/practicas/final/Practica_Final/material/adivina/" . "include/")
+ ("/home/pinguino/UGR/SEGUNDO/1/ED/practicas/practica5/material/adivina/" . "include/")
+ ("/home/pinguino/UGR/SEGUNDO/1/ED/practicas/practica5/material/" . "adivina/")
+ ("/home/pinguino/UGR/SEGUNDO/1/ED/practicas/practica5/" . "material/")
+ ("/home/pinguino/UGR/SEGUNDO/1/ED/practicas/" . "practica5/")
+ ("/home/pinguino/UGR/SEGUNDO/1/ED/practicas/practica4/" . "guiatlfs/")
+ ("/home/pinguino/UGR/SEGUNDO/1/ED/practicas/practica4/material/oper_trad/" . "src/")
+ ("/home/pinguino/UGR/SEGUNDO/1/EC/" . "Practicas/")
+ ("/home/pinguino/UGR/SEGUNDO/1/ED/practicas/practica3/material/pila_maxmin/" . "include/")
+ ("/home/pinguino/UGR/SEGUNDO/1/SCD/SCD-PORTAFOLIO/PRACTICA2/" . "Ejemplos_practica_2/")
+ ("/home/pinguino/UGR/SEGUNDO/1/EC/Practicas/practica3/" . "popcount/")
+ ("/home/pinguino/UGR/SEGUNDO/1/EC/Practicas/" . "practica4/")
+ ("/home/pinguino/UGR/SEGUNDO/1/PDOO/" . "tema2/")
+ ("/home/pinguino/UGR/SEGUNDO/1/" . "EC/")
+ ("/home/pinguino/UGR/SEGUNDO/" . "1/")
+ ("/home/pinguino/UGR/segundo/1/EC/Practicas/practica3/" . "tutorial/")
+ ("/home/pinguino/UGR/segundo/1/EC/Practicas/" . "practica3/")
+ ("/home/pinguino/UGR/segundo/1/EC/" . "Practicas/")
+ ("/home/pinguino/" . ".emacs.d/")
+ ("/home/pinguino/UGR/segundo/1/ED/practicas/practica2/" . "material/")
+ ("/home/pinguino/UGR/segundo/1/ED/practicas/" . "practica2/")
+ ("/home/pinguino/UGR/segundo/1/ED/" . "practicas/")
+ ("/home/pinguino/UGR/segundo/1/" . "EC/")
+ ("/home/pinguino/UGR/segundo/" . "1/")
+ ("/home/pinguino/UGR/" . "SEGUNDO/")
+ ("/home/pinguino/UGR/segundo/1/ED/practicas/practica2/material/traductor/" . "include/")
+ ("/home/pinguino/UGR/segundo/1/ED/practicas/practica2/material/" . "traductor/")
+ ("/home/pinguino/CODE/" . "c++/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/pinguino/.emacs.d/"
+ "/home/pinguino/.emacs.backups/"
+ "/home/pinguino/UGR/SEGUNDO/1/ED/practicas/final/Practica_Final/material/adivina/include/"
+ "/home/pinguino/agiles/"
+ "/home/pinguino/UGR/SEGUNDO/1/ED/practicas/practica5/material/adivina/include/"
+ "/home/pinguino/UGR/SEGUNDO/1/ED/practicas/examen/paises/"
+ "/home/pinguino/UGR/SEGUNDO/1/ED/practicas/practica4/guiatlfs/"
+ "/home/pinguino/UGR/SEGUNDO/1/SCD/SCD-PORTAFOLIO/PRÁCTICA3/PROD-CONS/"
+ "/home/pinguino/UGR/SEGUNDO/1/ED/practicas/practica4/material/oper_trad/src/"
+ "/home/pinguino/UGR/SEGUNDO/1/ED/practicas/practica4/material/oper_trad/include/"
+ "/home/pinguino/UGR/SEGUNDO/1/EC/Practicas/practica3/parity/"
+ "/home/pinguino/"
+ "/home/pinguino/UGR/SEGUNDO/1/EC/Practicas/practica3/popcount/"
+ "/home/pinguino/UGR/SEGUNDO/1/SO/practicas/SO-P-Todos_MaterialModulo2/Sesion3/src/"
+ "/home/pinguino/UGR/SEGUNDO/1/SCD/SCD-PORTAFOLIO/PRACTICA2/Ejemplos_practica_2/"
+ "/home/pinguino/UGR/SEGUNDO/1/ED/practicas/practica3/material/pila_maxmin/include/"
+ "/home/pinguino/UGR/SEGUNDO/1/ED/practicas/practica3/material/pila_maxmin/src/"
+ "/home/pinguino/UGR/SEGUNDO/1/SCD/SCD-PORTAFOLIO/PRACTICA2/FUMADORES/"
+ "/home/pinguino/UGR/SEGUNDO/1/EC/Practicas/practica3/4.1/"
+ "/home/pinguino/posts/"
+ "/home/pinguino/UGR/SEGUNDO/1/PDOO/tema2/"
+ "/home/pinguino/UGR/SEGUNDO/1/SCD/SCD-PORTAFOLIO/PRACTICA2/"
+ "/home/pinguino/UGR/segundo/1/EC/Practicas/practica3/tutorial/"
+ "/home/pinguino/UGR/segundo/1/EC/Practicas/practica3/"
+ "/home/pinguino/UGR/segundo/1/ED/practicas/practica2/material/traductor/include/"
+ "/home/pinguino/UGR/segundo/1/ED/practicas/practica2/material/traductor/src/"
+ "/home/pinguino/CODE/c++/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "init.el"
+ "!home!pinguino!.emacs.d!init.el.~1~"
+ "refranes.h"
+ "refranes.cpp"
+ "ArbolGeneral.cpp"
+ "notes.md"
+ "ArbolGeneral.h"
+ "paises.cpp"
+ "guiatlf.h"
+ "cambios.md"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/pinguino/.emacs.d/" (22623 64212 150242 530000) "init.el" "./" "#cosas#" "snippets/" "ido.last" "session.1081ec329c6f880c0614814937021759700000014530050" "session.108e7bcc2582f7e38f147928820755205700000016440060" "../" "init.el~" "ac-comphist.dat" "ido.last~" "README.md" "themes/" "session.109a555034cb5cf14c147888509198994400000023050048" "session.10b5213adba26d0da147912351668575900000014280050" "elpa/" "auto-save-list/")
+
+ ("/home/pinguino/.emacs.backups/" (22623 64087 287046 892000) "!home!pinguino!UGR!SEGUNDO!1!EC!Practicas!practica3!popcount!cuartamask.c.~1~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica4!material!oper_trad!Makefile.~1~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!src!pila_maxmin_VD.cpp.~1~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica4!material!oper_trad!include!frase.h.~3~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!src!usopilas_maxmin.cpp.~2~" "!home!pinguino!UGR!SEGUNDO!1!EC!Practicas!practica3!popcount!segundawhile.c.~2~" "!home!pinguino!UGR!SEGUNDO!1!EC!Practicas!practica3!popcount!terceraADC.c.~2~" "!home!pinguino!UGR!SEGUNDO!1!SCD!SCD-PORTAFOLIO!PRÁCTICA3!PROD-CONS!PRODCONS.cpp.~1~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica4!material!oper_trad!include!traductor.h.~6~" "!home!pinguino!UGR!SEGUNDO!1!EC!Practicas!practica3!popcount!cuartamask.c.~2~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica4!material!oper_trad!Makefile.~5~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!src!usolistas.cpp.~1~" "!home!pinguino!.zshrc.~2~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!src!usolistas.cpp.~5~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!src!pila_maxmin_Lista.cpp.~1~" "!home!pinguino!.scope.md.~1~" "!home!pinguino!UGR!SEGUNDO!1!EC!Practicas!practica4!prueba.c.~1~" "!home!pinguino!UGR!SEGUNDO!1!SO!practicas!SO-P-Todos_MaterialModulo2!Sesion3!src!ejercicio3.c.~1~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!src!usolistas.cpp.~3~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!src!usoVD.cpp.~2~" "!home!pinguino!UGR!SEGUNDO!1!EC!Practicas!practica3!popcount!primerafor.c.~2~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica4!material!oper_trad!include!conjuntofrases.h.~3~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!Makefile.~6~" "!home!pinguino!UGR!SEGUNDO!1!EC!Practicas!practica3!popcount!primerafor.c.~1~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!Makefile.~8~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!include!lista.h.~4~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica4!material!oper_trad!include!traductor.h.~3~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!include!pila_maxmin_Cola.cpp.~2~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica4!material!oper_trad!include!traductor.h.~1~" "!home!pinguino!UGR!SEGUNDO!1!SCD!SCD-PORTAFOLIO!PRACTICA2!FUMADORES!FUMADORES.java.~2~" "!home!pinguino!UGR!SEGUNDO!1!SO!practicas!SO-P-Todos_MaterialModulo2!Sesion3!src!ejercicio1.c.~1~" "!home!pinguino!.emacs.d!init.el.~2~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!include!lista.cpp.~5~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica4!material!oper_trad!src!pruebatraductor.cpp.~6~" "!home!pinguino!UGR!SEGUNDO!1!EC!Practicas!practica3!parity!primerafor.c.~1~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica4!material!oper_trad!include!Frase.h.~2~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!include!lista.cpp.~4~" "!home!pinguino!.emacs.d!init.el.~1~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica4!material!oper_trad!src!suma_traductores.cpp.~1~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!include!VD.cpp.~1~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!include!pila_max_lista.h.~1~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!src!orden.cpp.~2~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!include!lista.h.~5~" "!home!pinguino!.emacs.d!ido.last~" "!home!pinguino!UGR!SEGUNDO!1!SO!practicas!SO-P-Todos_MaterialModulo2!Sesion5!src!contador.c.~1~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica4!material!oper_trad!include!Frase.h.~1~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica4!material!oper_trad!src!pruebatraductor.cpp.~2~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!Makefile.~4~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!include!pila_maxmin_VD.cpp.~1~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica4!material!oper_trad!src!traductor_inverso.cpp.~1~" "!home!pinguino!UGR!SEGUNDO!1!SCD!SCD-PORTAFOLIO!PRÁCTICA3!PROD-CONS!PRODCONS.cpp.~2~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!include!lista.cpp.~3~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica4!material!oper_trad!src!concatena_traductores.cpp.~1~" "!home!pinguino!UGR!SEGUNDO!1!EC!Practicas!practica3!popcount!terceraADC.c.~1~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!Makefile.~5~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!src!usoVD.cpp.~4~" "!home!pinguino!UGR!SEGUNDO!1!EC!Practicas!practica3!popcount!asembly.s.~1~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica4!material!oper_trad!include!Frase.h.~3~" "!home!pinguino!UGR!SEGUNDO!1!SCD!SCD-PORTAFOLIO!PRACTICA2!FUMADORES!FUMADORES.java.~1~" "!home!pinguino!UGR!SEGUNDO!1!SO!practicas!SO-P-Todos_MaterialModulo2!Sesion3!src!jerarquia2.c.~1~" "!home!pinguino!UGR!SEGUNDO!1!EC!Practicas!practica3!parity!prueba.c.~1~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica4!material!oper_trad!src!pruebatraductor.cpp.~4~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!src!usopilas_maxmin.cpp.~3~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!include!pila_maxmin.h.~1~" "!home!pinguino!UGR!SEGUNDO!1!SO!practicas!SO-P-Todos_MaterialModulo2!Sesion3!src!ejercicio4.c.~1~" "!home!pinguino!UGR!SEGUNDO!1!SO!practicas!SO-P-Todos_MaterialModulo2!Sesion5!src!ejercicios!contador.c.~1~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!include!lista.cpp.~2~" "!home!pinguino!UGR!SEGUNDO!1!SO!practicas!SO-P-Todos_MaterialModulo2!Sesion5!src!ejercicios!contador.c.~3~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!Makefile.~7~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica4!material!oper_trad!src!conjuntofrases.cpp.~2~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!Makefile.~1~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica4!material!oper_trad!Makefile.~4~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica4!material!oper_trad!Makefile.~2~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!include!lista.h.~3~" "!home!pinguino!UGR!SEGUNDO!1!SO!practicas!SO-P-Todos_MaterialModulo2!Sesion3!src!ejercicio3.c.~3~" "!home!pinguino!UGR!SEGUNDO!1!SCD!SCD-PORTAFOLIO!PRACTICA2!FUMADORES!Fumadores.java.~2~" "!home!pinguino!UGR!SEGUNDO!1!EC!Practicas!practica3!popcount!cuartamask.c.~3~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica4!material!oper_trad!src!Frase.cpp.~1~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica4!material!oper_trad!include!traductor.h.~2~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!include!pila_maxmin_Cola.cpp.~1~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!include!pila_maxmin_Lista.cpp.~1~" "!home!pinguino!UGR!SEGUNDO!1!SCD!SCD-PORTAFOLIO!PRACTICA2!BARBERO!Barbero.java.~3~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!include!pila_maxmin_Lista.cpp.~2~" "!home!pinguino!UGR!SEGUNDO!1!SO!practicas!SO-P-Todos_MaterialModulo2!Sesion6!mi_programa.c.~1~" "!home!pinguino!UGR!SEGUNDO!1!SCD!SCD-PORTAFOLIO!PRÁCTICA3!PROD-CONS!prodcons2.cpp.~1~" "!home!pinguino!UGR!SEGUNDO!1!SCD!SCD-PORTAFOLIO!PRACTICA2!BARBERO!Barbero.java.~2~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!include!pila_maxmin_Cola.h.~1~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica4!material!oper_trad!Makefile.~6~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!include!pila_maxmin_VD.cpp.~2~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica4!material!oper_trad!src!concatena_traductores.cpp.~2~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica4!guiatlfs!guiatlf.h.~1~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!Makefile.~2~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!src!usoVD.cpp.~1~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!include!pila_maxmin_Lista.cpp.~4~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica4!material!oper_trad!include!conjuntofrases.h.~1~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica4!material!oper_trad!src!pruebatraductor.cpp.~1~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica4!material!oper_trad!src!conjuntofrases.cpp.~1~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica4!material!oper_trad!include!frase.h.~2~" "!home!pinguino!UGR!SEGUNDO!1!SO!practicas!SO-P-Todos_MaterialModulo2!Sesion5!src!ejercicios!contador.c.~2~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!Makefile.~3~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!src!orden.cpp.~1~" "!home!pinguino!UGR!SEGUNDO!1!EC!Practicas!practica3!popcount!#cuartamask.c#.~1~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!include!pila_maxmin_Lista.h.~1~" "!home!pinguino!UGR!SEGUNDO!1!SCD!SCD-PORTAFOLIO!PRÁCTICA3!PROD-CONS!cambios.md.~2~" "!home!pinguino!UGR!SEGUNDO!1!SCD!SCD-PORTAFOLIO!PRÁCTICA3!PROD-CONS!cambios.md.~3~" "!home!pinguino!UGR!SEGUNDO!1!SCD!SCD-PORTAFOLIO!PRÁCTICA3!PROD-CONS!cambios.md.~1~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica4!material!oper_trad!include!traductor.h.~5~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica4!material!oper_trad!src!pruebatraductor.cpp.~5~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!include!lista.cpp.~6~" "!home!pinguino!UGR!SEGUNDO!1!SO!practicas!SO-P-Todos_MaterialModulo2!Sesion6!mi_programa.c.~2~" "!home!pinguino!.emacs.d!elpa!subatomic-theme-1.8.1!subatomic-theme-autoloads.el~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!src!pila_maxmin_Cola.cpp.~1~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!src!usoVD.cpp.~3~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica4!material!oper_trad!include!frase.h.~1~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!include!lista.h.~2~" "!home!pinguino!UGR!SEGUNDO!1!SCD!SCD-PORTAFOLIO!PRACTICA2!BARBERO!Barbero.java.~1~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!include!pila_maxmin_VD.h.~1~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!include!VD.h.~1~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!src!usolistas.cpp.~2~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica4!material!oper_trad!Makefile.~3~" "!home!pinguino!UGR!SEGUNDO!1!EC!Practicas!practica3!parity!segundawhile.c.~1~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica4!material!oper_trad!src!pruebatraductor.cpp.~3~" "!home!pinguino!UGR!SEGUNDO!1!SCD!SCD-PORTAFOLIO!PRACTICA2!FUMADORES!Fumadores.java.~1~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!src!usolistas.cpp.~4~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica4!material!oper_trad!include!traductor.h.~4~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!include!lista.cpp.~1~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!examen!paises!paises.cpp.~1~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!include!lista.h.~1~" "!home!pinguino!UGR!SEGUNDO!1!EC!Practicas!practica3!popcount!segundawhile.c.~1~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica4!material!oper_trad!include!conjuntofrases.h.~2~" "!home!pinguino!UGR!SEGUNDO!1!SO!practicas!SO-P-Todos_MaterialModulo2!Sesion3!src!ejercicio3.c.~2~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!include!pila_maxmin_Lista.cpp.~3~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!include!VD.cpp.~2~" "!home!pinguino!.zshrc.~1~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!src!usolistas.cpp.~6~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!practica3!material!pila_maxmin!src!usopilas_maxmin.cpp.~1~" "!home!pinguino!UGR!SEGUNDO!1!ED!practicas!examen!paises!pais.h.~1~" "../" "./")
+
+ ("/home/pinguino/" (22623 63744 58742 381000) ".sudo_as_admin_successful" "git/" ".cache/" ".zcompdump-pinguino-CX61-2PC-5.1.1" ".emacs.d/" "./" ".zsh_history" ".npm/" ".pki/" ".macromedia/" ".gimp-2.8/" ".local/" "code/" ".gnuplot_history" ".cat_installer/" ".xsession-errors.old" "posts/" "Desktop/" ".zcompdump" ".bash_logout" ".adobe/" ".gtimer/" ".Wallpapers/" ".FontForge/" ".Xauthority" "0.png" ".atom/" ".ssh/" ".gnupg/" ".m2/" "../" ".profile" "Wallpapers/" ".pass" ".gnome2/" "UGR/" ".gconf/" "Media/" ".bash_history" ".dmrc" ".thunderbird/" ".zsh-update" ".xsession-errors" ".config/" ".java/" ".ICEauthority" ".thumbnails/" ".lyx/" ".zshrc" "Downloads/" ".emacs.backups/" ".scope.md" "..zshrc.swp" ".nano/" ".netbeans/" "ISO/" ".bashrc" ".texmf-var/" ".ddd/" "buk/" ".mozilla/" ".texmf-config/" ".swt/" ".oh-my-zsh/" "scope/" ".gitconfig")
+
+ ("/home/pinguino/UGR/SEGUNDO/1/ED/practicas/final/Practica_Final/material/adivina/src/" (22623 48301 0 0) "./" "mainprueba.cpp" "test_refranes.cpp" "../")
+
+ ("/home/pinguino/UGR/SEGUNDO/1/ED/practicas/final/Practica_Final/material/adivina/" (22623 48584 0 0) "./" "include/" "obj/" "Makefile" "src/" "datos/" "../" "bin/" "doc/" ".DS_Store" "lib/")
+
+ ("/home/pinguino/UGR/SEGUNDO/1/ED/practicas/final/Practica_Final/material/adivina/include/" (22623 48301 0 0) "./" "refranes_hash.h" "ArbolGeneral.h" "../" "ArbolGeneral.cpp" "refranes.h" "refranes.cpp")
+
+ ("/home/pinguino/agiles/" (22619 37913 255066 107000) "./" "../")
+
+ ("/home/pinguino/UGR/SEGUNDO/1/SCD/SCD-PORTAFOLIO/PRÁCTICA3/PROD-CONS/" (22607 53966 493886 613000) "./" "cambios.pdf" "../" "cambios.md" "prodcons" "PRODCONS.cpp")
+
+ ("/home/pinguino/UGR/SEGUNDO/1/ED/practicas/examen/paises/" (22614 36074 16742 234000) "./" "paises" "paises.cpp" "../")
+
+ ("/home/pinguino/UGR/SEGUNDO/1/ED/practicas/practica5/material/adivina/include/" (22599 64606 0 0) "./" "refranes_hash.h" "ArbolGeneral.h" "../" "refranes.h")
+
+ ("/home/pinguino/UGR/SEGUNDO/1/ED/practicas/practica5/material/adivina/" (22507 52390 0 0) "./" "include/" "obj/" "Makefile" "src/" "datos/" "../" "bin/" "doc/" "lib/")
+
+ ("/home/pinguino/UGR/SEGUNDO/1/ED/practicas/practica5/material/" (22507 52345 0 0) "./" "adivina/" "../")
+
+ ("/home/pinguino/UGR/SEGUNDO/1/ED/practicas/practica5/" (22609 2060 114455 503000) "./" "material.tgz" "practica_final.pdf" "../" "material/")
+
+ ("/home/pinguino/UGR/SEGUNDO/1/ED/practicas/" (22614 32078 92191 121000) "./" "practica2/" "practica5/" "../" "practica4/" "practica3/" "examen/" "practica1/")
+
+ ("/home/pinguino/UGR/SEGUNDO/1/ED/practicas/examen/" (22614 32083 751883 4000) "./" "paises/" "../")
+
+ ("/home/pinguino/posts/" (22602 58348 190464 414000) "pila_maxmin/" "lubuntu-16.10-desktop-i386.iso" "./" "#instalar_arch.md#" "schedule.png" "pilamaxmin.tgz" "Zootopia.2016.1080p.HDRip.x264.AC3_font.color=#ccc_-JYK__font_.torrent" "../" "m8CpDX2F.jpg" "lshort-a4.pdf" "Trabajo IELNV.mp4" "SCOPE.zip" "Apuntes LNV 2014.pdf")
+
+ ("/home/pinguino/UGR/SEGUNDO/1/EC/Practicas/practica3/parity/" (22593 48437 795927 413000) "prueba" "ptercera.c" "sexta" "primera" "./" "pcuarta.c" "quinta2" "1y2p_2.png" "cuarta2" "1y2p.png" "2y3_2.png" "2y3.png" "segunda1" "5y6p_2.png" "quinta" "../" "sexta1" "cuarta1" "5y6p.png" "compare.py" "3y4p_2.png" "primera2" "pprimera.c" "tercera1" "tercera" "3y4p.png" "4y5p_1.png" "5y6p_1.png" "2" "segunda" "3y4p_1.png" "1y2p_1.png" "ptercera2" "tercera2" "2y3_1.png" "segunda2" "pquinta.c" "4y5p.png" "primera1" "cuarta" "4y5p_2.png" "mcompare.py" "quinta1" "psexta.c" "prueba.c" "sexta2" "psegunda.c")
+
+ ("/home/pinguino/UGR/SEGUNDO/1/ED/practicas/practica4/material/oper_trad/include/" (22604 18275 775317 231000) "traductor.h" "./" "../" "frase.h")
+
+ ("/home/pinguino/UGR/SEGUNDO/1/ED/practicas/practica4/material/oper_trad/src/" (22604 17276 908587 250000) "./" "pruebatraductor.cpp" "../" "suma_traductores.cpp" "concatena_traductores.cpp" "traductor_inverso.cpp")
+
+ ("/home/pinguino/UGR/SEGUNDO/1/SCD/" (22606 24936 929977 252000) "SCD-PORTAFOLIO.tar.gz" "./" "Soluciones_ejercicios_temas_1_y_2.pdf" "Transparencias_tema_2.pdf" "../" "SCD-PORTAFOLIO/" "TEMA-01[TEORIA].pdf" "SCD-PORTAFOLIO.zip" "Sistemas_Concurrentes y Distribuidos.pdf" "Ejercicios_temas_1_2_3.pdf")
+
+ ("/home/pinguino/UGR/SEGUNDO/1/SCD/SCD-PORTAFOLIO/" (22606 24924 706719 107000) "PRACTICA2/" "./" "SEMINARIO3/" "../" ".git/" "PRACTICA1/" "SEMINARIO2/" "SEMINARIO1/" "PRÁCTICA3/")
+
+ ("/home/pinguino/UGR/SEGUNDO/1/SCD/SCD-PORTAFOLIO/PRÁCTICA3/" (22607 49295 98770 931000) "./" "Ejemplos_practica_3/" "PROD-CONS/" "../" "scd-pr03.pdf")
+
+ ("/home/pinguino/UGR/SEGUNDO/1/ED/practicas/practica4/material/oper_trad/" (22603 59697 954326 375000) "./" "include/" "obj/" "Makefile" "src/" "datos/" "../" "bin/" "doc/" "lib/")
+
+ ("/home/pinguino/UGR/SEGUNDO/1/ED/practicas/practica4/guiatlfs/" (22601 43806 697244 346000) "a.out" "usoguia" "./" "usoguia.cpp" "../" "guiatlf.h" "guia.txt" "guia2.txt")
+
+ ("/home/pinguino/UGR/SEGUNDO/1/ED/practicas/practica4/" (22601 32522 864115 23000) "./" "practica4.pdf" "guiatlfs/" "../" "material/" "LATEX/")
+
+ ("/home/pinguino/UGR/SEGUNDO/1/ED/practicas/practica4/material/" (22601 32394 244113 502000) "./" "oper_trad/" "../" "traductor/")
+
+ ("/home/pinguino/UGR/SEGUNDO/1/ED/practicas/practica3/material/pila_maxmin/src/" (22585 57107 664982 960000) "orden.cpp" "./" "../" "usolistas.cpp" "usopilas_maxmin.cpp" "usoVD.cpp" "usocolas.cpp")
+
+ ("/home/pinguino/UGR/SEGUNDO/1/ED/practicas/practica3/material/pila_maxmin/include/" (22585 57612 203025 301000) "lista.h~" "./" "pila_maxmin.h" "pila_maxmin_VD.h" "VD.h" "VD.cpp" "../" "cola.cpp" "pila_maxmin_Cola.cpp" "lista.h" "lista.cpp" "pila_maxmin_Lista.cpp" "VD.h~" "pila_maxmin_VD.cpp" "cola.h" "pila_maxmin_Lista.h" "pila_maxmin_Cola.h")
+
+ ("/home/pinguino/UGR/SEGUNDO/1/EC/Practicas/practica3/popcount/" (22584 29332 883072 744000) "3y4.png" "primeraop" "terceraa" "cuartaa" "primera" "./" "g2.png" "quintasse.c" "prueba.png" "segundaop" "graficos.sh" "segundawhile.c" "1y2.png" "2y3.png" "terceraADC.c" "data.dat" "3y4op.png" "quinta" "../" "cosa.c" "cuartamask.c" "2y3op.png" "4y5.png" "grafico.png" "cosa" "compare.py" "tercera" "segunda" "op3y4.png" "4y1op.png" "cuarta" "mcompare.py" "quinta.c" "primerafor.c")
+
+ ("/home/pinguino/UGR/SEGUNDO/1/EC/Practicas/practica4/" (22593 46896 323588 546000) "./" "../" "bomba.c" "Practica 4 Tutorial Guion.pdf")
+
+ ("/home/pinguino/UGR/SEGUNDO/1/EC/Practicas/" (22593 46806 237582 720000) "./" "practica2/" "../" "-EC-PRACTICA-3/" "practica4/" "practica3/" "practica1/")
+
+ ("/home/pinguino/UGR/SEGUNDO/1/EC/" (22574 52380 205477 804000) "Nivel_Maquina_3_procedimientos.pdf" "Unidad_de_control.pdf" "./" "ComputerSystemBook.pdf" "Introducción.pdf" "Ex Sep 16 Probl.pdf" "../" "ESTRUCTURA-DE-COMPUTADORES.lyx~" "Nivel_Maquina_1_basico.pdf" "Problemas_Nivel_de_lenguaje_maquina.pdf" "Nivel_Maquina_2_aritm_control.pdf" "Problemas_Unidad_de_control.pdf" "ESTRUCTURA-DE-COMPUTADORES.lyx" "prueba.s" "Practicas/" "Estructura de Computadores.pdf" "prueba.c" "libros/")
+
+ ("/home/pinguino/UGR/SEGUNDO/1/SO/practicas/SO-P-Todos_MaterialModulo2/Sesion3/src/" (22578 56425 141842 138000) "ejercicio3.c" "j2" "a.out" "./" "ejercicio1.c~" "jerarquia2.c" "3" "j1" "4" "tarea5.c" "ejercicio1.c" "../" "tarea4.c" "ejercicio4.c" "jerarquia1.c" "jeraquia2.c" "Untitled Document")
+
+ ("/home/" (22560 19557 302000 140000) "pinguino/" "./" "../")
+
+ ("/home/pinguino/UGR/SEGUNDO/1/SCD/SCD-PORTAFOLIO/PRACTICA2/Ejemplos_practica_2/" (22564 26135 305336 253000) "./" "../" "ContadorDias.java" "LectorEscritor.java" "ProductorConsumidor.java" "aux.java" "ProductorConsumidor.java~")
+
+ ("/home/pinguino/UGR/SEGUNDO/1/SCD/SCD-PORTAFOLIO/PRACTICA2/BARBERO/" (22573 30077 999181 502000) "./" "../" "#Barbero.java#" "Barbero.java" ".#Barbero.java")
+
+ ("/home/pinguino/UGR/SEGUNDO/1/ED/practicas/practica3/material/pila_maxmin/" (22572 49283 148861 713000) "./" "include/" "obj/" "Makefile" "src/" "datos/" "../" "bin/" "doc/")
+
+ ("/home/pinguino/UGR/SEGUNDO/1/SCD/SCD-PORTAFOLIO/PRACTICA2/FUMADORES/" (22572 9429 772642 289000) "Fumadores.java~" "monitor/" "./" "README" "Fumadores.java" "../" "salida")
+
+ ("/home/pinguino/UGR/SEGUNDO/1/SCD/SCD-PORTAFOLIO/PRACTICA2/" (22572 9443 623520 534000) "monitor/" "./" "ProductorConsumidor/" "../" "BARBERO/" "Transparencias Práctica 2.pdf" "FUMADORES/" "README~" "ProductorConsumidor.java~" "Ejemplos_practica_2/")
+
+ ("/home/pinguino/UGR/SEGUNDO/1/SO/" (22570 54941 180441 200000) "practicas/" "./" "Sistemas Operativos.pdf" "STALLINGS-2.md" "Tema1_SO_2016.pdf" "Tema2_SO_2016-Part_1.pdf" "../" "SEMINARIO1.lyx~" "STALLINGS-2.md~" "books/")
+
+ ("/home/pinguino/UGR/SEGUNDO/1/SO/practicas/" (22569 24603 464819 628000) "SO-P-Todos_MaterialModulo2/" "./" "modulo1/" "PORTAFOLIO-SO.lyx~" "../" "Portafolios_Practicas_SO_JesusGarciaGodoy (copia).pdf" "SO-GuiaPráctcas.pdf" "PORTAFOLIO-SO.lyx")
+
+ ("/home/pinguino/UGR/SEGUNDO/1/SO/practicas/SO-P-Todos_MaterialModulo2/" (22564 49787 826184 399000) "Sesion1/" "./" "Sesion6/" "Sesion3/" "Sesion5/" "Sesion4/" "../" "Sesion2/" "Sesion7/")
+
+ ("/home/pinguino/UGR/SEGUNDO/1/SO/practicas/SO-P-Todos_MaterialModulo2/Sesion3/" (22559 10398 0 0) "./" "src/" "../" "SO-Modulo2-Sesion3-Autoevaluacion.odt")
+
+ ("/home/pinguino/UGR/SEGUNDO/1/EC/Practicas/practica3/" (22570 50109 492566 43000) "./" "popcount/" "fuentes/" "../" "Practica 3b Guion.pdf" "Practica 3a Tutorial.pdf" "tutorial/")
+
+ ("/home/pinguino/UGR/SEGUNDO/1/EC/Practicas/practica3/4.1/" (22570 48854 114426 166000) "./" "Cuenta_c_v1.c~" "popcountwhile2.c~" "popcount/" "../")
+
+ ("/home/pinguino/UGR/SEGUNDO/1/PDOO/tema2/" (22565 45032 440615 529000) "./" "Ejercicios-Leccion 2-1.pdf" "Tema2_Leccion1.pdf" "solucion_2.3" "Tema2_Leccion3.pdf" "../" "Ejercicios-Leccion 2-2.pdf" "Ejercicios-Leccion 2-3.pdf" "Tema2_Leccion2.pdf" "solucion23.md~" "solucion23.md")
+
+ ("/home/pinguino/UGR/SEGUNDO/1/PDOO/" (22564 10976 22203 527000) "examen1/" "practicas/" "./" "../" "Napakalaki/" "tema1/" "NapakalakiRuby/" "books/" "tema2/")
+
+ ("/home/pinguino/UGR/SEGUNDO/1/" (22559 18794 0 0) "./" "PDOO/" "../" "SO/" "EC/" "SCD/" "ED/")
+
+ ("/home/pinguino/UGR/SEGUNDO/" (22559 18806 0 0) "./" "../" "2/" "1/")
+
+ ("/home/pinguino/UGR/" (22561 31834 684546 911000) "./" "SEGUNDO/" "../" "0/" "DOCUMENTOS/")
+
+ ("/home/pinguino/UGR/segundo/1/EC/Practicas/practica3/tutorial/" (22556 27976 227902 196000) "suma.s" "./" "suma_cdecl.o" "suma_cdecl.s" "suma.o" "../" "suma" "suma_cdecl.s~" "suma_cdecl")
+
+ ("/home/pinguino/UGR/segundo/1/EC/Practicas/practica3/" (22556 24623 95947 940000) "./" "Practica 3a Tutorial.pdf" "../" "tutorial/" "Practica 3b Guion.pdf")
+
+ ("/home/pinguino/CODE/c++/" (22551 46218 739944 862000) "./" "lect/" "eficiencia" "#colors.cpp#" "cosa.cpp" "eficiencia.cpp" "../" "a.out" "maximo_recursivo.cpp" "maximo" "emacs.cpp" "see_vector.cpp" "colors.cpp" "#eficiencia.cpp#")
+
+ ("/home/pinguino/UGR/segundo/1/ED/practicas/practica2/material/traductor/src/" (22555 43699 158956 684000) "./" "pruebatrad_test.cpp" "Frase.cpp" "conjuntofrases.cpp" "../")
+
+ ("/home/pinguino/UGR/segundo/1/ED/practicas/practica2/material/traductor/include/" (22555 44353 619947 756000) "./" "Frase.h" "conjuntofrases.h" "VD.cpp" "VD.h" "../" ".#Traductor.h")
+
+ ("/home/pinguino/UGR/segundo/1/EC/Practicas/" (22556 23112 183968 552000) "./" "../" "practica2/" "practica1/" "practica3/")
+
+ ("/home/pinguino/UGR/segundo/1/EC/" (22556 23638 217961 376000) "ESTRUCTURA-DE-COMPUTADORES.lyx~" "./" "Introducción.pdf" "Nivel_Maquina_3_procedimientos.pdf" "prueba.c" "prueba.s" "../" "ESTRUCTURA-DE-COMPUTADORES.lyx" "tema2/" "Practicas/" "libros/" "Estructura de Computadores.pdf" "ComputerSystemBook.pdf")
+
+ ("/home/pinguino/UGR/segundo/1/ED/practicas/practica2/material/traductor/" (22551 45583 765953 524000) "include/" "./" "src/" "doc/" "obj/" "datos/" "lib/" "../" "bin/" "Makefile")
+
+ ("/home/pinguino/UGR/segundo/1/ED/practicas/practica2/" (22537 8345 907935 133000) "./" "practica2.pdf" "material.tgz" "../" "material/")
+
+ ("/home/pinguino/UGR/segundo/1/ED/practicas/" (22537 8271 506936 148000) "./" "../" "practica2/" "practica1/")
+
+ ("/home/pinguino/UGR/segundo/1/ED/" (22545 48202 978992 606000) "./" "practicas/" "2016-10-01-1475349525.png" "Estructuras de Datos.pdf" "../" "tema2/" "tema3/" "tema1/")
+
+ ("/home/pinguino/UGR/segundo/1/" (22512 58134 0 0) "./" "SCD/" "ED/" "../" "SO/" "PDOO/" "CURSO" "EC/")
+
+ ("/home/pinguino/UGR/segundo/" (22512 58134 0 0) "./" "2/" "../" "1/")
+
+ ("/home/pinguino/UGR/segundo/1/ED/practicas/practica2/material/" (22495 64756 0 0) "./" "racional/" "../" "traductor/")
+
+ ("/home/pinguino/CODE/" (22541 3827 82948 950000) "blog/" "./" "java/" "RUBY/" "Novgen/" "grg121.github.io/" "../" "qt/" "c++/" "md/" "prueba" "asembly/" ".directory")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
